@@ -1,0 +1,14 @@
+# segredos: nunca versionar
+chave.txt
+.env
+*credenciais*.json
+
+# dados de execução (contêm dados de pacientes)
+conversas.log
+*.log
+estado_orcamento*.json
+ultimo_agendamento*.json
+
+__pycache__/
+*.pyc
+.claude/
